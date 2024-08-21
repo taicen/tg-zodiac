@@ -1,0 +1,104 @@
+{
+  "horoscopes": {
+    "ru": {
+      "aries": {
+        "title": "Овен",
+        "date": "21 марта – 20 апреля"
+      },
+      "taurus": {
+        "title": "Телец",
+        "date": "21 апреля – 21 мая"
+      },
+      "gemini": {
+        "title": "Близнецы",
+        "date": "22 мая – 21 июня"
+      },
+      "cancer": {
+        "title": "Рак",
+        "date": "22 июня – 22 июля"
+      },
+      "leo": {
+        "title": "Лев",
+        "date": "23 июля – 23 августа"
+      },
+      "virgo": {
+        "title": "Дева",
+        "date": "24 августа – 23 сентября"
+      },
+      "libra": {
+        "title": "Весы",
+        "date": "24 сентября – 23 октября"
+      },
+      "scorpio": {
+        "title": "Скорпион",
+        "date": "24 октября – 22 ноября"
+      },
+      "sagittarius": {
+        "title": "Стрелец",
+        "date": "23 ноября – 21 декабря"
+      },
+      "capricorn": {
+        "title": "Козерог",
+        "date": "22 декабря – 20 января"
+      },
+      "aquarius": {
+        "title": "Водолей",
+        "date": "21 января – 19 февраля"
+      },
+      "pisces": {
+        "title": "Рыбы",
+        "date": "20 февраля – 20 марта"
+      }
+    },
+    "en": {
+      "aries": {
+        "title": "Aries",
+        "date": "21 March – 20 April"
+      },
+      "taurus": {
+        "title": "Taurus",
+        "date": "21 April – 21 May"
+      },
+      "gemini": {
+        "title": "Gemini",
+        "date": "22 May – 21 June"
+      },
+      "cancer": {
+        "title": "Cancer",
+        "date": "22 June – 22 July"
+      },
+      "leo": {
+        "title": "Leo",
+        "date": "23 July – 23 August"
+      },
+      "virgo": {
+        "title": "Virgo",
+        "date": "24 August – 23 September"
+      },
+      "libra": {
+        "title": "Libra",
+        "date": "24 September – 23 October"
+      },
+      "scorpio": {
+        "title": "Scorpio",
+        "date": "24 October – 22 November"
+      },
+      "sagittarius": {
+        "title": "Sagittarius",
+        "date": "23 November – 21 December"
+      },
+      "capricorn": {
+        "title": "Capricorn",
+        "date": "22 December – 20 January"
+      },
+      "aquarius": {
+        "title": "Aquarius",
+        "date": "21 January – 19 February"
+      },
+      "pisces": {
+        "title": "Pisces",
+        "date": "20 February – 20 March"
+      }
+    }
+  }
+}
